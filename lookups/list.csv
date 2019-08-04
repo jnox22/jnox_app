@@ -1,0 +1,7 @@
+domain,ip,listcategory,details
+www.google.co.jp,,white,search_engine
+,10.0.0.0/8,white,private_ip
+,172.16.0.0/12,white,private_ip
+,192.168.0.0/16,white,private_ip
+www.bing.com,204.79.197.200,black,not_black
+*.ru,,black,Russia TLD
